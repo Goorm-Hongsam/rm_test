@@ -10,6 +10,6 @@ public class HelloController {
     @GetMapping("/")
 
     public Long getUser() {
-        return 6L;
+        return 7L;
     }
 }
